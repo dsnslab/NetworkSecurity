@@ -15,6 +15,7 @@ Connect to Kibana:
 ELK: 
 - Ubuntu Server x64 20.04.2
 - ELK Stack: https://drive.google.com/file/d/1Yp0n3JQ29xL-21XgF2XvFF_JrvWUvosi
+
 Endpoint: 
 - Windows 10 x64 Professional 20H2 (Build 19042.508)
 - The OS image was downloaded from ftp://ca.nctu.edu.tw
@@ -23,9 +24,11 @@ Endpoint:
 Ubuntu (ELK)
 - Username: elk
 - Password: elk
+
 Windows (Endpoint)
 - Username: Endpoint
 - Password: Endpoint
+
 Kibana
 - Username: admin
 - Password: admin
@@ -34,6 +37,7 @@ Kibana
 IP
 - ELK: 192.168.66.1
 - Endpoint: 192.168.66.2
+
 Port
 - Kibana: 5601
 - Logstash: 5044
